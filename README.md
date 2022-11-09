@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi I'am Pandy~  
+My ![Visitor Count](https://profile-counter.glitch.me/PandyYang/count.svg)visotor   
+## 🌠[Coding Time](https://wakatime.com/@PandyYang)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandyYang)](https://github.com/PandyYang/github-readme-stats)  
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandyYang)  
 
 <!--
 **PandyYang/PandyYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

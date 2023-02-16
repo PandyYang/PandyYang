@@ -1,2 +1,2 @@
-### Hi I'am Pandy~  
-My ![Visitor Count](https://profile-counter.glitch.me/PandyYang/count.svg)visotor
+- 👋 Hi, I’m shallowsnow
+- 👀 I’m interested in reading、coding and writing~

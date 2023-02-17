@@ -1,2 +1,2 @@
 - 👋 Hi, I’m shallowsnow
-- 👀 I’m interested in reading、coding and writing~
+- 👀 I’m interested in reading、coding and cooking~

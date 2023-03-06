@@ -1,2 +1,2 @@
-- 👋 Hi, I’m shallowsnow
+- 👋 Hi, I’m Pandy
 - 👀 I’m interested in reading、coding and cooking~
